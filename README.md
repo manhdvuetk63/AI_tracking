@@ -1,6 +1,6 @@
 # <b>Đặng Văn Mạnh - 18020885</b>
 ##
-<img src="./ImageResult/resultAutograder.png" width="400" title="DFS on tinyMaze"/>
+<img src="https://github.com/manhdvuetk63/AI_tracking/blob/master/ImageResult/autograder_result.png" width="400" title="DFS on tinyMaze"/>
 ### Question 1 - Exact Inference Observation
 
 ```python
